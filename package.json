@@ -1,0 +1,16 @@
+{
+  "name": "burmese-braille-muthit-converter-module",
+  "version": "1.0.0",
+  "description": "Convert Burmese Letters to Burmese Braille Muthit Letters",
+  "main": "lib",
+  "keywords": [
+    "Burmese Braille Converter",
+    "Burmese",
+    "Braille"
+  ],
+  "author": "Lin Aung",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  }
+}
