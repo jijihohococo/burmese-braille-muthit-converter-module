@@ -12,3 +12,7 @@ if(burmeseBrailleConverter("၁၉၂၀ ပြည့် ကျောင်း �
 if(burmeseBrailleConverter("အမြွှာ")=="⠣⠍⠢⠜⠭⠁"){
 	console.log(successMessage)
 }
+
+if(burmeseBrailleConverter("ကြွေ")=="⠱⠅⠢⠜"){
+	console.log(successMessage)
+}
