@@ -1,6 +1,6 @@
 {
   "name": "burmese-braille-muthit-converter-module",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Convert Burmese Letters to Burmese Braille Muthit Letters",
   "main": "lib",
   "keywords": [
