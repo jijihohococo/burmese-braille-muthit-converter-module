@@ -17,3 +17,6 @@ if(burmeseBrailleConverter("အမြွှာ")=="⠣⠍⠢⠜⠭⠁"){
 if(burmeseBrailleConverter("ကြွေ")=="⠱⠅⠢⠜"){
 	console.log(normalSuccessMessage)
 }
+if(burmeseBrailleConverter("ရွှေမြန်မာများရွှေ့ပြောင်းကြခြင်း")=="⠱⠗⠜⠭⠍⠢⠝⠄⠍⠁⠍⠔⠁⠆⠱⠗⠜⠭⠂⠱⠏⠢⠁⠌⠄⠆⠅⠢⠨⠢⠌⠄⠆"){
+	console.log(normalSuccessMessage)
+}
